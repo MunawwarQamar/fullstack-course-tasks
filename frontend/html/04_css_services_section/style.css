@@ -1,0 +1,16 @@
+h1{
+    margin: 20px;
+    text-align: center;
+}
+.services-section{
+    display: inline-block;
+    width: 20%;
+    margin: 20px;
+    text-align: center;   
+}
+img{
+    width: 50px;
+}
+p{
+    color: #6c757d;
+}
